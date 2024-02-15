@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "L5+TcGK7nEdCXbCfWsR0W1G7SZncONK91v6eoYRkC5CTqbztKORLY0SXITAxGqzZb4VcfoKXRGMpcmSC4t52zg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\faras\\RiderProjects\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\faras\\.nuget\\packages\\anglesharp\\1.1.0\\anglesharp.1.1.0.nupkg.sha512",
+    "C:\\Users\\faras\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
